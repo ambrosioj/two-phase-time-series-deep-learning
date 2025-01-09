@@ -1,0 +1,9 @@
+{
+    "Accuracy": 0.841886269070735,
+    "Precision": 0.8619286752438389,
+    "Recall": 0.841886269070735,
+    "F1-Score": 0.8433641416401119,
+    "Balanced Accuracy": 0.8453463590950164,
+    "Model": {},
+    "Parameters": "TSTPlus"
+}

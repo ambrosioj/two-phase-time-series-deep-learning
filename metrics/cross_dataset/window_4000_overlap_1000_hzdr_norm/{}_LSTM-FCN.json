@@ -1,0 +1,9 @@
+{
+    "Accuracy": 0.9142064592827422,
+    "Precision": 0.9234506074233363,
+    "Recall": 0.9142064592827422,
+    "F1-Score": 0.9151965166446102,
+    "Balanced Accuracy": 0.9111974948709642,
+    "Model": {},
+    "Parameters": "LSTM-FCN"
+}
