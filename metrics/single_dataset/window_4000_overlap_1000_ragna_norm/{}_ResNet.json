@@ -1,0 +1,9 @@
+{
+    "Accuracy": 0.9910861670518323,
+    "Precision": 0.99108612256728,
+    "Recall": 0.9910861670518323,
+    "F1-Score": 0.9910859927079452,
+    "Balanced Accuracy": 0.9915888836154617,
+    "Model": {},
+    "Parameters": "ResNet"
+}

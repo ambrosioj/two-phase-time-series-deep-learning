@@ -1,4 +1,8 @@
 data/
+models/
+
+*.npy
+*:Zone.Identifier
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -12,6 +16,7 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+.cache
 
 # Distribution / packaging
 .Python
@@ -39,6 +44,13 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+
+# Jupyter Notebook output and metadata
+*.ipynb filter=nbstripout
+*.ipynb_checkpoints
+
+# Remove cell execution counts and outputs from git
+*.ipynb diff=ipynb
 
 # Jupyter metadata
 .jupyter/
