@@ -79,8 +79,8 @@ Due to restrictions, the **HZDR** and **TUD** datasets are referenced in the cod
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ambrosioj/two-phase-time-series-deep-learning.git
+   cd two-phase-time-series-deep-learning
    ```
 2. Install the required Python packages:
    ```bash
