@@ -2,7 +2,7 @@ data/
 models/
 
 *.npy
-*:Zone.Identifier
+!*_cm.npy
 
 # Jupyter Notebook
 .ipynb_checkpoints
